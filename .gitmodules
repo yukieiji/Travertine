@@ -1,3 +1,4 @@
 [submodule "Waterfall"]
 	path = Waterfall
 	url = https://github.com/yukieiji/Waterfall.git
+	branch = fix-CVE-2021-44228
