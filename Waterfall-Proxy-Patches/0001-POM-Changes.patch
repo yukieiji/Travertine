@@ -242,7 +242,7 @@ index 51187fd15..9fe7044f9 100644
 +    <description>Simplistic and performant Log4j2 based logger and console API designed for use with Travertine and Minecraft related applications.</description>
  
      <properties>
-         <log4j2.version>2.14.0</log4j2.version>
+         <log4j2.version>2.15.0</log4j2.version>
 @@ -50,5 +50,24 @@
              <version>3.4.2</version>
              <scope>runtime</scope>
